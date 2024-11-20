@@ -1,6 +1,6 @@
 {
-  "instanceAlias": "myTestalias-aaazzz",
-  "instanceStorageBucketName": "connect-aaazzz",
+  "instanceAlias": "devSecOpsInstance",
+  "instanceStorageBucketName": "devSecOpsInstance-connect-bucket",
   "identityManagementType": "CONNECT_MANAGED",
   "instanceStorageConfig": [
     {
