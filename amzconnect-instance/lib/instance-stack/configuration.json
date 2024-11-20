@@ -1,6 +1,6 @@
 {
-  "instanceAlias": "devSecOpsInstance",
-  "instanceStorageBucketName": "devSecOpsInstance-connect-bucket",
+  "instanceAlias": "devSecOpsInstanceTestLijiann",
+  "instanceStorageBucketName": "devSecOpsInstanceTestLijiann-connect-bucket",
   "identityManagementType": "CONNECT_MANAGED",
   "instanceStorageConfig": [
     {
